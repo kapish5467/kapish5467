@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=kapish5467&color=green)
+![](https://img.shields.io/badge/#007396-<Code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **kapish5467/kapish5467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
