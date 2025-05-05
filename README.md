@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently: Pursuing Masters in Computer Science from University Of California, Riverside. 
+- 🔭 I’m currently: Working at one of the FAANG as Software Developer. 
 - 🌱 I’m currently learning : Machine Learning, NLP and Data Science models.
 - 👯 I’m looking to collaborate: For open source project or some cool implementation/use case.
 - 💬 Ask me about: Software Development, machine learning and Algorithms.
